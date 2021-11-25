@@ -32,7 +32,7 @@ az aks create \
    --client-secret $PASSWORD \
     --attach-acr agiplacr
 
-<!-- az aks get-credentials --resource-group myResourceGroup --name myAKSCluster -->
+
 az aks get-credentials --resource-group iplgroup --name iplAKSCluster
 
 kubectl apply -f ipl.yml
