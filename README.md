@@ -1,8 +1,8 @@
 |  FileName  |  Description |
 |---|---|
-|  Dockerfile | Docker file for the microservice to produce a container image   |
+|  Dockerfile | Docker file to produce a container image   |
 |  requirements.txt | The libraries required for the Dockerfile are present in the requirements.txt. The Dockerfile uses the requirements.txt   |
-|  Docker_steps.md | The steps required to deploy the microservices container in the local Docker Desktop   |
+|  Docker_steps.md | The steps required to deploy the container in the local Docker Desktop   |
 |  azure_aci_steps.md | Steps to deploy in Azure Container Instance  |
 |  service_principal_aks_steps.md | Steps to deploy in Azure Kubernetes Service  |
 |  azure_container_apps.md | Steps to deploy in Azure Container Apps  |
