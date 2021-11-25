@@ -1,3 +1,13 @@
+This repository shows the following 
+- [x] IPL Best Batsman using 6 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021
+- [x] IPL Best Bowler using 4 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021
+- [x] Create a Streamlit UI on top of the logic
+- [x] Create a Container Image and run it on local Docker  
+- [x] Deploy the Container Image in Azure Container Instances
+- [x] Deploy the Container Image in Azure Kubernetes Cluster
+- [x] Deploy the Container Image in Azure Container Apps         
+
+
 |  FileName  |  Description |
 |---|---|
 |  Dockerfile | Docker file to produce a container image   |
