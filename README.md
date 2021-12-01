@@ -1,3 +1,4 @@
+# Repo Overview         
 This repository shows the following            
 ☑️ IPL Best Batsman using 6 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021             
 ☑️ IPL Best Bowler using 4 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021                
@@ -7,10 +8,11 @@ This repository shows the following
 ☑️ Deploy the Container Image in Azure Kubernetes Cluster           
 ☑️ Deploy the Container Image in Azure Container Apps            
 
+#  Video Playlist       
 [Cricket Analytics Playlist](https://www.youtube.com/playlist?list=PL3mYo8cDslVW4ZGXujokM9S_iXMAXb0hE)              
 This has videos on the calculation of the IPL best batsman and best bowler. This also has the details and inner workings of the PCA used in the analysis.           
 
-
+# Filenames details      
 |  FileName  |  Description |
 |---|---|
 |  Dockerfile | Docker file to produce a container image   |
@@ -24,5 +26,5 @@ This has videos on the calculation of the IPL best batsman and best bowler. This
 analysis-bowler-pca-details
 |  analysis-bowler-pca-details.ipynb | This has the details of the IPython notebook for the PCA implementation  |
 
-# PCA interesting research paper
+# PCA interesting research paper     
 [Anomaly Detection in Resource Constrained Environments With Streaming Data](https://www.amii.ca/latest-from-amii/anomaly-detection-resource-constrained-environments-streaming-data/)
