@@ -1,14 +1,14 @@
-This repository shows the following 
-☑️ IPL Best Batsman using 6 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021
-☑️ IPL Best Bowler using 4 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021
-☑️ Create a Streamlit UI on top of the logic
-☑️ Create a Container Image and run it on local Docker  
-☑️ Deploy the Container Image in Azure Container Instances
-☑️ Deploy the Container Image in Azure Kubernetes Cluster
-☑️ Deploy the Container Image in Azure Container Apps    
+This repository shows the following            
+☑️ IPL Best Batsman using 6 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021             
+☑️ IPL Best Bowler using 4 different metrics and an unsupervised learning algorithm Principal Component Analysis for each of the seasons from 2007 to 2021                
+☑️ Create a Streamlit UI on top of the logic            
+☑️ Create a Container Image and run it on local Docker            
+☑️ Deploy the Container Image in Azure Container Instances         
+☑️ Deploy the Container Image in Azure Kubernetes Cluster           
+☑️ Deploy the Container Image in Azure Container Apps            
 
-[Cricket Analytics Playlist](https://www.youtube.com/playlist?list=PL3mYo8cDslVW4ZGXujokM9S_iXMAXb0hE)      
-This has videos on the calculation of the IPL best batsman and best bowler. This also has the details and inner workings of the PCA used in the analysis.
+[Cricket Analytics Playlist](https://www.youtube.com/playlist?list=PL3mYo8cDslVW4ZGXujokM9S_iXMAXb0hE)              
+This has videos on the calculation of the IPL best batsman and best bowler. This also has the details and inner workings of the PCA used in the analysis.           
 
 
 |  FileName  |  Description |
