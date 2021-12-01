@@ -23,7 +23,6 @@ This has videos on the calculation of the IPL best batsman and best bowler. This
 |  azure_container_apps.md | Steps to deploy in Azure Container Apps  |
 |  ALL_2021_IPL_MATCHES_BALL_BY_BALL.csv | IPL Ball by Ball data - 2021  |
 |  all_matches_details.csv | IPL Ball by Ball data for seasons 2007 to 2021  |
-analysis-bowler-pca-details
 |  analysis-bowler-pca-details.ipynb | This has the details of the IPython notebook for the PCA implementation  |
 
 # PCA interesting research paper     
